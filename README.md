@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @LuisPenafiel
-
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-
-
-<!---
-LuisPenafiel/LuisPenafiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm LuisPenafiel</h1>
 <h3 align="center">Professional Machine Learning Engineering with experience in Medical Data</h3>
 
