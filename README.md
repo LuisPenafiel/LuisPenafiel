@@ -3,7 +3,7 @@
 
 - 📊 Skilled in Python for data analysis, statistical modeling, and machine learning algorithms
 
-- 🌱 I’m currently learning **Machine Vision**
+- 🌱 I’m currently learning **engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuisPenafiel?tab=repositories](https://github.com/LuisPenafiel?tab=repositories)
 
