@@ -3,7 +3,7 @@
 
 - 📊 Skilled in Python for data analysis, statistical modeling, and machine learning algorithms
 
-- 🌱 I’m currently learning **engineering**
+- 🌱 I’m currently learning **Cloud engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuisPenafiel?tab=repositories](https://github.com/LuisPenafiel?tab=repositories)
 
