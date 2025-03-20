@@ -71,42 +71,18 @@
     
   </div>
 </div>
+
 ---
 
 ### 📌 Featured Projects
 
-<div align="center" style="display: flex; flex-direction: column; gap: 2rem;">
-
-<div style="display: flex; gap: 1rem; align-items: center;">
-  <a href="https://github.com/LuisPenafiel/Body_Signals_of_Smoking---AWS-Terraform-testing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=Body_Signals_of_Smoking---AWS-Terraform-testing&theme=dark" alt="Smoking Prediction">
+<div align="center">
+  <a href="REPLACE_WITH_YOUR_PROJECT_URL_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=REPO_NAME_1&theme=dark" alt="Project 1">
   </a>
-  <div style="text-align: left;">
-    <h4>🚬 Smoking Habit Prediction</h4>
-    <ul style="margin: 0; padding-left: 1.2rem;">
-      <li>Predicts smoking status using biomedical markers</li>
-      <li>Random Forest classifier with 85% accuracy</li>
-      <li>Streamlit interactive dashboard</li>
-      <li>AWS deployment with Terraform IaC</li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex; gap: 1rem; align-items: center;">
-  <a href="https://github.com/LuisPenafiel/DeepLearning_Dog-Cat_Classify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=DeepLearning_Dog-Cat_Classify&theme=dark" alt="Pet Classifier">
+  <a href="REPLACE_WITH_YOUR_PROJECT_URL_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=REPO_NAME_2&theme=dark" alt="Project 2">
   </a>
-  <div style="text-align: left;">
-    <h4>🐱 vs 🐶 Image Classifier</h4>
-    <ul style="margin: 0; padding-left: 1.2rem;">
-      <li>CNN model with TensorFlow/Keras</li>
-      <li>94% test accuracy on animal images</li>
-      <li>Image preprocessing pipeline</li>
-      <li>Transfer learning with MobileNetV2</li>
-    </ul>
-  </div>
-</div>
-
 </div>
 
 ---
