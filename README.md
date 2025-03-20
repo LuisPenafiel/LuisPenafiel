@@ -36,7 +36,7 @@
     <!-- AWS Card -->
     <div style="padding: 1rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
       <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" alt="AWS"/>
         <h4 style="margin: 0;">AWS Certification</h4>
       </div>
       <div style="background: #e9ecef; border-radius: 4px; height: 8px;">
@@ -48,7 +48,7 @@
     <!-- Terraform Card -->
     <div style="padding: 1rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
       <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" alt="Terraform"/>
         <h4 style="margin: 0;">Terraform IaC</h4>
       </div>
       <div style="background: #e9ecef; border-radius: 4px; height: 8px;">
@@ -60,7 +60,7 @@
     <!-- MLOps Card -->
     <div style="padding: 1rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
       <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="30" alt="Databricks"/>
         <h4 style="margin: 0;">MLOps Pipelines</h4>
       </div>
       <div style="background: #e9ecef; border-radius: 4px; height: 8px;">
