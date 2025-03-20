@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Luis Peñafiel</h1>
 <h3 align="center">🤖 ML Engineer | 🏥 Medical Data Specialist | ☁️ Cloud Enthusiast</h3>
 
-<p align="center" style="display: flex; justify-content: center; gap: 0.5rem;">
+<p align="center" style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap;">
   <a href="https://github.com/LuisPenafiel?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_Projects-100000?style=for-the-badge&logo=github&logoColor=white&color=181717">
+    <img src="https://img.shields.io/badge/📂_Projects-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/luis-peñafiel-palmer/">
     <img src="https://img.shields.io/badge/👔_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
 ---
 
 ### 🔧 Technical Expertise
