@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Luis Peñafiel</h1>
 <h3 align="center">🤖 ML Engineer | 🏥 Medical Data Specialist | ☁️ Cloud Enthusiast</h3>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 0.5rem;">
   <a href="https://github.com/LuisPenafiel?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_Projects-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/📂_Projects-100000?style=for-the-badge&logo=github&logoColor=white&color=181717">
   </a>
   <a href="https://www.linkedin.com/in/luis-peñafiel-palmer/">
     <img src="https://img.shields.io/badge/👔_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 
+
 ---
 
 ### 🚀 Current Focus
@@ -47,14 +48,7 @@
 
 ### 📌 Featured Projects
 
-<div align="center">
-  <a href="REPLACE_WITH_YOUR_PROJECT_URL_1">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=REPO_NAME_1&theme=dark" alt="Project 1](https://github.com/LuisPenafiel/Body_Signals_of_Smoking---AWS-Terraform-testing)">
-  </a>
-  <a href="REPLACE_WITH_YOUR_PROJECT_URL_2">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=REPO_NAME_2&theme=dark" alt="Project 2](https://github.com/LuisPenafiel/DeepLearning_Dog-Cat_Classify)">
-  </a>
-</div>
+<div align="center"> <a href="https://github.com/LuisPenafiel/Body_Signals_of_Smoking---AWS-Terraform-testing"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=Body_Signals_of_Smoking---AWS-Terraform-testing&theme=dark" alt="Smoking Body Signals Analysis"> </a> <a href="https://github.com/LuisPenafiel/DeepLearning_Dog-Cat_Classify"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=DeepLearning_Dog-Cat_Classify&theme=dark" alt="Dog vs Cat Classifier"> </a> </div>
 
 ---
 
