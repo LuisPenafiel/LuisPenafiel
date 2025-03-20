@@ -28,7 +28,7 @@
 
 ### 🚀 Current Focus
 
-<div align="center" style="border: 2px solid #2F4F4F; border-radius: 10px; padding: 1.5rem; margin: 1rem 0; background: #f8f9fa;">
+<div style="text-align: center; border: 2px solid #2F4F4F; border-radius: 10px; padding: 1.5rem; margin: 1rem 0; background: #f8f9fa;">
   <h3 style="margin: 0 0 1.5rem 0; color: #2F4F4F;">☁️ Cloud Engineering Journey</h3>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; width: 100%;">
@@ -77,11 +77,11 @@
 ### 📌 Featured Projects
 
 <div align="center">
-  <a href="REPLACE_WITH_YOUR_PROJECT_URL_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=REPO_NAME_1&theme=dark" alt="Project 1">
+  <a href="https://github.com/LuisPenafiel/Body_Signals_of_Smoking---AWS-Terraform-testing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=Body_Signals_of_Smoking---AWS-Terraform-testing&theme=dark" alt="Smoking Analysis Project">
   </a>
-  <a href="REPLACE_WITH_YOUR_PROJECT_URL_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=REPO_NAME_2&theme=dark" alt="Project 2">
+  <a href="https://github.com/LuisPenafiel/DeepLearning_Dog-Cat_Classify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisPenafiel&repo=DeepLearning_Dog-Cat_Classify&theme=dark" alt="Pet Classifier Project">
   </a>
 </div>
 
