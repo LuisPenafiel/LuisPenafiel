@@ -28,24 +28,47 @@
 
 ### 🚀 Current Focus
 
-<div align="center" style="border: 2px solid #7F3FBF; border-radius: 8px; padding: 1rem; margin: 1rem 0;">
-  <h3 style="margin: 0 0 1rem 0;">☁️ Cloud Engineering Journey</h3>
+<div align="center" style="border: 2px solid #2F4F4F; border-radius: 10px; padding: 1.5rem; margin: 1rem 0; background: #f8f9fa;">
+  <h3 style="margin: 0 0 1.5rem 0; color: #2F4F4F;">☁️ Cloud Engineering Journey</h3>
   
-  <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-      <p>▰▰▰▰▱ 80%</p>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; width: 100%;">
+    
+    <!-- AWS Card -->
+    <div style="padding: 1rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" />
+        <h4 style="margin: 0;">AWS Certification</h4>
+      </div>
+      <div style="background: #e9ecef; border-radius: 4px; height: 8px;">
+        <div style="width: 80%; background: linear-gradient(90deg, #FF9900, #FF6600); height: 100%; border-radius: 4px;"></div>
+      </div>
+      <p style="margin: 0.5rem 0 0 0; font-size: 0.9em; color: #6c757d;">80% Complete</p>
+    </div>
+
+    <!-- Terraform Card -->
+    <div style="padding: 1rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" />
+        <h4 style="margin: 0;">Terraform IaC</h4>
+      </div>
+      <div style="background: #e9ecef; border-radius: 4px; height: 8px;">
+        <div style="width: 60%; background: linear-gradient(90deg, #7B42BC, #5E2D8C); height: 100%; border-radius: 4px;"></div>
+      </div>
+      <p style="margin: 0.5rem 0 0 0; font-size: 0.9em; color: #6c757d;">60% Complete</p>
+    </div>
+
+    <!-- MLOps Card -->
+    <div style="padding: 1rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="30" />
+        <h4 style="margin: 0;">MLOps Pipelines</h4>
+      </div>
+      <div style="background: #e9ecef; border-radius: 4px; height: 8px;">
+        <div style="width: 40%; background: linear-gradient(90deg, #01A4D2, #0187A7); height: 100%; border-radius: 4px;"></div>
+      </div>
+      <p style="margin: 0.5rem 0 0 0; font-size: 0.9em; color: #6c757d;">40% Complete</p>
     </div>
     
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-      <p>▰▰▰▱▱ 60%</p>
-    </div>
-    
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/MLOps-01A4D2?style=for-the-badge&logo=databricks&logoColor=white">
-      <p>▰▰▱▱▱ 40%</p>
-    </div>
   </div>
 </div>
 ---
