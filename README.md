@@ -26,51 +26,114 @@
 
 ---
 
-### 🚀 Current Focus
-
-<div style="text-align: center; border: 2px solid #2F4F4F; border-radius: 10px; padding: 1rem; margin: 1rem 0; background: #f8f9fa;">
-  <h3 style="margin: 0 0 1rem 0; color: #2F4F4F; font-size: 1.5em;">☁️ Cloud Engineering Journey</h3>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; width: 100%;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Current Focus</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      padding: 2rem;
+    }
+    .focus-container {
+      text-align: center;
+      border: 2px solid #2F4F4F;
+      border-radius: 10px;
+      padding: 1rem;
+      margin: 1rem auto;
+      max-width: 600px;
+      background: #fff;
+    }
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1rem;
+      width: 100%;
+    }
+    .card {
+      padding: 0.5rem;
+      border-radius: 8px;
+      background: white;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .card-header img {
+      width: 20px;
+      height: auto;
+    }
+    .progress-bar {
+      background: #e9ecef;
+      border-radius: 4px;
+      height: 4px;
+    }
+    .progress {
+      height: 100%;
+      border-radius: 4px;
+    }
+    .aws-progress { width: 80%; background: linear-gradient(90deg, #FF9900, #FF6600); }
+    .terraform-progress { width: 60%; background: linear-gradient(90deg, #7B42BC, #5E2D8C); }
+    .mlops-progress { width: 40%; background: linear-gradient(90deg, #01A4D2, #0187A7); }
+    .card p {
+      margin: 0.5rem 0 0 0;
+      font-size: 0.8em;
+      color: #6c757d;
+    }
+  </style>
+</head>
+<body>
+  <div class="focus-container">
+    <h3 style="color: #2F4F4F; font-size: 1.5em;">☁️ Cloud Engineering Journey</h3>
     
-    <!-- AWS Card -->
-    <div style="padding: 0.5rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" alt="AWS"/>
-        <h4 style="margin: 0; font-size: 1em;">AWS Certification</h4>
+    <div class="grid-container">
+      
+      <!-- AWS Card -->
+      <div class="card">
+        <div class="card-header">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS">
+          <h4>AWS Certification</h4>
+        </div>
+        <div class="progress-bar">
+          <div class="progress aws-progress"></div>
+        </div>
+        <p>80% Complete</p>
       </div>
-      <div style="background: #e9ecef; border-radius: 4px; height: 4px;">
-        <div style="width: 80%; background: linear-gradient(90deg, #FF9900, #FF6600); height: 100%; border-radius: 4px;"></div>
-      </div>
-      <p style="margin: 0.5rem 0 0 0; font-size: 0.8em; color: #6c757d;">80% Complete</p>
-    </div>
 
-    <!-- Terraform Card -->
-    <div style="padding: 0.5rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="20" alt="Terraform"/>
-        <h4 style="margin: 0; font-size: 1em;">Terraform IaC</h4>
+      <!-- Terraform Card -->
+      <div class="card">
+        <div class="card-header">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform">
+          <h4>Terraform IaC</h4>
+        </div>
+        <div class="progress-bar">
+          <div class="progress terraform-progress"></div>
+        </div>
+        <p>60% Complete</p>
       </div>
-      <div style="background: #e9ecef; border-radius: 4px; height: 4px;">
-        <div style="width: 60%; background: linear-gradient(90deg, #7B42BC, #5E2D8C); height: 100%; border-radius: 4px;"></div>
-      </div>
-      <p style="margin: 0.5rem 0 0 0; font-size: 0.8em; color: #6c757d;">60% Complete</p>
-    </div>
 
-    <!-- MLOps Card -->
-    <div style="padding: 0.5rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="20" alt="Databricks"/>
-        <h4 style="margin: 0; font-size: 1em;">MLOps Pipelines</h4>
+      <!-- MLOps Card -->
+      <div class="card">
+        <div class="card-header">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks">
+          <h4>MLOps Pipelines</h4>
+        </div>
+        <div class="progress-bar">
+          <div class="progress mlops-progress"></div>
+        </div>
+        <p>40% Complete</p>
       </div>
-      <div style="background: #e9ecef; border-radius: 4px; height: 4px;">
-        <div style="width: 40%; background: linear-gradient(90deg, #01A4D2, #0187A7); height: 100%; border-radius: 4px;"></div>
-      </div>
-      <p style="margin: 0.5rem 0 0 0; font-size: 0.8em; color: #6c757d;">40% Complete</p>
+      
     </div>
-    
   </div>
-</div>
+</body>
+</html>
 
 ---
 
