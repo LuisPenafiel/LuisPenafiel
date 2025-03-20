@@ -28,43 +28,47 @@
 
 ### 🚀 Current Focus
 
-<div align="center" style="border: 2px solid #2F4F4F; border-radius: 10px; padding: 1rem; margin: 1rem 0;">
-  <h3 style="margin: 0 0 1rem 0;">☁️ Cloud Engineering Journey</h3>
+<div style="text-align: center; border: 2px solid #2F4F4F; border-radius: 10px; padding: 1rem; margin: 1rem 0; background: #f8f9fa;">
+  <h3 style="margin: 0 0 1rem 0; color: #2F4F4F; font-size: 1.5em;">☁️ Cloud Engineering Journey</h3>
   
-  <!-- AWS Card -->
-  <div style="padding: 1rem; margin: 0.5rem; background: white; border-radius: 8px;">
-    <div style="display: flex; align-items: center; gap: 0.5rem;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" alt="AWS">
-      <h4 style="margin: 0;">AWS Certification</h4>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; width: 100%;">
+    
+    <!-- AWS Card -->
+    <div style="padding: 0.5rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" alt="AWS"/>
+        <h4 style="margin: 0; font-size: 1em;">AWS Certification</h4>
+      </div>
+      <div style="background: #e9ecef; border-radius: 4px; height: 4px;">
+        <div style="width: 80%; background: linear-gradient(90deg, #FF9900, #FF6600); height: 100%; border-radius: 4px;"></div>
+      </div>
+      <p style="margin: 0.5rem 0 0 0; font-size: 0.8em; color: #6c757d;">80% Complete</p>
     </div>
-    <div style="background: #e9ecef; height: 8px; border-radius: 4px; margin-top: 0.5rem;">
-      <div style="width: 80%; background: #FF9900; height: 100%; border-radius: 4px;"></div>
-    </div>
-    <p style="margin: 0.5rem 0 0 0; font-size: 0.9em;">80% Complete</p>
-  </div>
 
-  <!-- Terraform Card -->
-  <div style="padding: 1rem; margin: 0.5rem; background: white; border-radius: 8px;">
-    <div style="display: flex; align-items: center; gap: 0.5rem;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" alt="Terraform">
-      <h4 style="margin: 0;">Terraform IaC</h4>
+    <!-- Terraform Card -->
+    <div style="padding: 0.5rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="20" alt="Terraform"/>
+        <h4 style="margin: 0; font-size: 1em;">Terraform IaC</h4>
+      </div>
+      <div style="background: #e9ecef; border-radius: 4px; height: 4px;">
+        <div style="width: 60%; background: linear-gradient(90deg, #7B42BC, #5E2D8C); height: 100%; border-radius: 4px;"></div>
+      </div>
+      <p style="margin: 0.5rem 0 0 0; font-size: 0.8em; color: #6c757d;">60% Complete</p>
     </div>
-    <div style="background: #e9ecef; height: 8px; border-radius: 4px; margin-top: 0.5rem;">
-      <div style="width: 60%; background: #7B42BC; height: 100%; border-radius: 4px;"></div>
-    </div>
-    <p style="margin: 0.5rem 0 0 0; font-size: 0.9em;">60% Complete</p>
-  </div>
 
-  <!-- MLOps Card -->
-  <div style="padding: 1rem; margin: 0.5rem; background: white; border-radius: 8px;">
-    <div style="display: flex; align-items: center; gap: 0.5rem;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="30" alt="MLOps">
-      <h4 style="margin: 0;">MLOps Pipelines</h4>
+    <!-- MLOps Card -->
+    <div style="padding: 0.5rem; border-radius: 8px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="20" alt="Databricks"/>
+        <h4 style="margin: 0; font-size: 1em;">MLOps Pipelines</h4>
+      </div>
+      <div style="background: #e9ecef; border-radius: 4px; height: 4px;">
+        <div style="width: 40%; background: linear-gradient(90deg, #01A4D2, #0187A7); height: 100%; border-radius: 4px;"></div>
+      </div>
+      <p style="margin: 0.5rem 0 0 0; font-size: 0.8em; color: #6c757d;">40% Complete</p>
     </div>
-    <div style="background: #e9ecef; height: 8px; border-radius: 4px; margin-top: 0.5rem;">
-      <div style="width: 40%; background: #01A4D2; height: 100%; border-radius: 4px;"></div>
-    </div>
-    <p style="margin: 0.5rem 0 0 0; font-size: 0.9em;">40% Complete</p>
+    
   </div>
 </div>
 
