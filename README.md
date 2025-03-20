@@ -1,20 +1,47 @@
-<h1 align="center">Hi 👋, I'm LuisPenafiel</h1>
-<h3 align="center">Professional Machine Learning Engineering with experience in Medical Data</h3>
+<h1 align="center">👋 Hi, I'm Luis Peñafiel</h1>
+<h3 align="center">🤖 ML Engineer | 🏥 Medical Data Specialist | ☁️ Cloud Enthusiast</h3>
 
-- 📊 Skilled in Python for data analysis, statistical modeling, and machine learning algorithms
-
-- 🌱 I’m currently learning **Cloud engineering**
-
-- 👨‍💻 All of my projects are available at [https://github.com/LuisPenafiel?tab=repositories](https://github.com/LuisPenafiel?tab=repositories)
-
-- 📫 How to reach me **penafielpalmerluis@gmail.com** or **https://www.linkedin.com/in/luis-peñafiel-palmer/**
-  
-- ⚡ Fun fact: "Your immune system has a better memory than you do!"
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-peñafiel-palmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-peñafiel-palmer/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/LuisPenafiel?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_Projects-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/luis-peñafiel-palmer/">
+    <img src="https://img.shields.io/badge/👔_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:penafielpalmerluis@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
+
+---
+
+### 🔧 Technical Expertise
+
+- **Machine Learning**  
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> 
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Seaborn-2596BE?logoColor=white" alt="Seaborn">
+
+- **Cloud & DevOps**  
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+
+- **Data Engineering**  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+
+---
+
+### 🚀 Current Focus
+
+```text
+🌥 Cloud Engineering Journey:
+- AWS Certified Solutions Architect preparation
+- Infrastructure as Code (Terraform)
+- Building MLOps pipelines
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
