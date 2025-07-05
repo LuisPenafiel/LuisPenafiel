@@ -52,7 +52,7 @@
 - 🏥 Processed 1M+ anonymized patient records
 - 📈 Achieved 92% accuracy in disease prediction models
 - 🧠 **Fun Fact:** *"Your immune system has a better memory than you do! Just like my ML models 😉"*
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original-wordmark.svg" alt="Pulumi" width="40" height="40"/></a> <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer"><img
+
 
 ---
 
